@@ -1,0 +1,13 @@
+41,41,41,41,645,645,645,111,111,163,163,214,214,266,266,317,317,369,369,421,421,472,472,524,524,575,575
+143,194,246,298,272,220,169,522,574,522,574,522,574,522,574,522,574,522,574,522,574,522,574,522,574,522,574
+39.6
+39.6
+240
+120
+A,B,C,D,1,2,3,0,0,10,1,20,2,30,3,40,4,50,5,60,6,70,7,80,8,90,9
+Variety,Variety,Variety,Variety,Flower,Flower,Flower,Plant (sum),Plant (sum),Plant (sum),Plant (sum),Plant (sum),Plant (sum),Plant (sum),Plant (sum),Plant (sum),Plant (sum),Plant (sum),Plant (sum),Plant (sum),Plant (sum),Plant (sum),Plant (sum),Plant (sum),Plant (sum),Plant (sum),Plant (sum)
+726
+655
+257
+12
+Blue
